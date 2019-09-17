@@ -78,9 +78,9 @@ public class pset0 {
          */
 
         System.out.println("/nH E L L O");
-		System.out.println("E       A");
-        System.out.println("L       P");
-		System.out.println("L       C");
+		System.out.println("E/t/tA");
+        System.out.println("L/t/tP");
+		System.out.println("L/t/tC");
 		System.out.println("O A P C S");
         /*
          * Exercise 7.
