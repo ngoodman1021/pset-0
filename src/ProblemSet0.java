@@ -16,7 +16,7 @@
 
 public class pset0 {
 
-    public void Main(String args) {
+    public static void main(String args) {
 
         /*
          * Exercise 1.
@@ -117,7 +117,12 @@ public class pset0 {
          * Print a plus sign to the console.
          */
 
-        System.out.println("+---+||");
-        System.out.println("+---++---+||+---++---+")
-        System.out.println("||+---+")
+        System.out.println("\n\t+---+\t");
+		System.out.println("\t|\t|\t");
+        System.out.println("+---+\t+---+");
+		System.out.println("|\t\t\t|");
+        System.out.println("+---+\t+---+");
+		System.out.println("\t|\t|\t");
+		System.out.println("\t+---+\t");
+	}
 }
